@@ -1,0 +1,6 @@
+{
+  "name": "Utsav Veda - Festive Products Store",
+  "description": "Premium full-stack Indian festive e-commerce store for lawful celebration products, handcrafted diyas, pooja essentials, and decorative lights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
